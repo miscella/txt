@@ -1,0 +1,18 @@
+Wie werden die radikal neuen kulturellen Formen aussehen, die dem Zeitalter der kabellosen Kommunikation, der umfassenden Betriebssysteme und der Informationsanwendungen entsprechen – wenn es sie überhaupt jemals geben wird?
+
+Kurz, die Vision der Avantgarde materialisierte sich in einem Computer.
+All jene Strategien, die einst entwickelt wurden, um möglichst große Teile der bourgeoisen Gesellschaft aus ihrer Traumexistenz wachzurütteln (konstruktivistisches Design, neue Typographie, avantgardistische Kameraführung und Filmschnittechniken, Fotomontage und so weiter) definieren heute die wesentliche Routine der postindustriellen Gesellschaft: die Interaktion mit dem Computer.
+So gehört etwa die avantgardistische Strategie der Collage als »Cut and paste«, Ausschneiden und Einfügen, heute zu den grundlegendsten Operationen im Umgang mit Computerdaten.
+Ein anderes Beispiel: Die dynamischen Fenster, Pull-down-Menüs und HTML-Tabellen erlauben es dem Nutzer, auf einer räumlich begrenzten Bildoberfläche mit einer nahezu unbegrenzten Menge an Daten und Information gleichzeitig zu arbeiten.
+Diese Strategie wurde bereits 1926 von Lissitzky eingesetzt, der in seinem Ausstellungsdesign für die Internationale Kunstausstellung in Dresden bewegliche Rahmen verwendete.
+
+Was in den zwanziger Jahren noch radikale ästhetische Vision war, ist in den Neunzigern zum allgemeinen Standard der Computertechnologie geworden.
+
+Kommen wir also, nachdem wir uns die Transformation der avantgardistischen Techniken in Software bewußt gemacht haben, zu dem Schluß, daß die einzig mögliche Begründung dafür, den neuen Medien einen Avantgarde-Status zuzuschreiben, darin liegt, daß diese sich auf die alte modernistische Avantgarde beziehen?
+Nein.
+Die neuen Medien bringen eigene, ähnlich revolutionäre Kommunikationstechniken hervor.
+Tatsächlich bilden sie mit ihren Innovationen, die mindestens so radikal sind wie die formalen Neuerungen der zwanziger Jahre, eine neue Avantgarde.
+Allerdings finden sich diese Innovationen nicht im Bereich der Formen, dem traditionellen Feld kultureller Entwicklung.
+Denn die neue Avantgarde unterscheidet sich grundsätzlich von der alten:
+1. Die alte Medien-Avantgarde der zwanziger Jahre fand neue Formen, neue Möglichkeiten, die Realität darzustellen, und neue Arten, die Weit zu sehen. Bei der Avantgarde der neuen Medien geht es um neue Wege, auf Informationen zuzugreifen und diese zu bearbeiten. Zu den entsprechenden Techniken gehören Hypermedien, Datenbanken, Suchmaschinen, Data mining, Bildverarbeitung, Visualisierung und Simulation.
+2. Die neue Avantgarde verfolgt nicht mehr das Ziel, die Weit mit neuen Augen zu sehen oder sie auf eine andere Weise darzustellen. Vielmehr geht es ihr darum, bereits vorhandene Medien auf eine neue Art und Weise zugänglich zu machen und zu nutzen. Da die neuen Medien in diesem Sinne auf die alten Medien wie auf einen Rohstoff zugreifen, könnte man sie also als Post-Medien oder als ›Meta-Medien‹ bezeichnen.

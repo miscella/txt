@@ -1,0 +1,39 @@
+HAEFNER: Folgende Episode wird Sie ein wenig schockieren: Ein Moderator von Radio Bremen und ich haben mit den Radiohörern ein Ratespiel gemacht.
+Abwechselnd haben wir von Menschen gemachte und computergenerierte Gedichte vorgelesen.
+Dann haben wir die Zuhörer gefragt.
+Niemand war in der Lage, Computergedichte von den wirklich gedichteten Gedichten zu unterscheiden.
+WEIZENBAUM: Ich kenne solche und ähnliche Experimente.
+Sie besagen lediglich, daß die Zuhörer keinen Unterschied hören können.
+Trotzdem gibt es aber einen Unterschied zwischen berechneten und geistig geschaffenen Werken.
+HAEFNER: Und worin soll er bestehen?
+WEIZENBAUM: Okay, diese Frage habe ich mir verdient.
+Was ist eigentlich ein Gedicht?
+Warum dichten Menschen Gedichte?
+Jedes Gedicht ist zunächst einmal der sprachlich gestaltete Ausdruck einer Idee, einer Empfindung oder Erfahrung.
+Um sie zum Ausdruck zu bringen, müssen die üblichen Grenzen der Sprache überschritten werden – deshalb das Gedicht.
+Der Computer hat keine Idee und keine Empfindung.
+HAEFNER: Jetzt habe ich Mühe, genau zu verstehen, was Sie meinen.
+WEIZENBAUM: Der dichtende Mensch ist kein Zufallsgenerator.
+Er sucht Worte, er folgt Assoziationen, findet Sprachbilder und Rhythmen, die etwas Unsagbares abbilden und verstehbar machen.
+Dies ist ein ganz anderer Vorgang als die Berechnung von Silben- und Wortsequenzen.
+
+HAEFNER: Mit Ihrem Grundgedanken bin ich gar nicht einverstanden.
+Es gibt keine übersinnlichen, ewig verborgenen Ideen.
+Die Anforderungen an ... die Art zu dichten ... : Solche Tätigkeiten haben Traditionen, sie folgen Regeln und Maßstäben.
+Ein deutscher Dichter steckt nun mal in der deutschen und nicht in der japanischen Literatur-Tradition.
+Alle diese Merkmale bilden auch die Grundlage für Computer-Programme wie zum Beispiel das Poetry-Programm, das wir bei Radio Bremen benutzt haben.
+Dessen Texte sind nicht grundsätzlich verschieden von denen eines Dichters.
+WEIZENBAUM: Sie unterschlagen einen markanten Unterschied.
+Man kann grundsätzlich nicht die Erfahrung eines Menschen – als Erfahrung – einem Computer eingeben.
+Für ihn sind es beliebige Daten.
+Das ist nach meiner Überzeugung die Kernfrage der gesamten Computerentwicklung, besonders der sogenannten künstlichen Intelligenz: Menschliche Erfahrung ist nicht übertragbar.
+Und auch die Traditionen, von denen Sie sprechen, lassen sich nicht eindeutig festlegen in Symbole oder formale Sprachen, mit denen ein Computer arbeitet.
+HAEFNER: Ich bitte Sie, Herr Weizenbaum!
+Die Gesetze und Regeln der Arithmetik, das waren doch menschliche Denk-Erfahrungen, die komplett dem Computer übergeben worden sind.
+Inzwischen sind riesige Bereiche, etwa der Bau- und Ingenieurkunst, computerisiert mit dem sogenannten CAD, dem “Computer-aided-design”.
+Und da behaupten Sie, bei der Dichtkunst sei alles ganz anders.
+WEIZENBAUM: Was Sie da sagen, glauben wirklich viele Leute.
+Ich glaube es nicht, ich halte mich an Ionesco: “Alles kann in Worten ausgedrückt werden, nur nicht die lebendige Wahrheit.”
+HAEFNER: Es gibt viele miese Schriftsteller, Herr Weizenbaum, die schreiben weit schlechtere Romane, als es inzwischen Computerprogramme können.
+Vermutlich wird ein großer Teil der Massenliteratur sowieso schon längst mit Computern produziert.
+Und vermutlich ist es nicht einmal der schlimmste Teil.

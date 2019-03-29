@@ -1,0 +1,20 @@
+When radically new cultural forms appropriate for the age of wireless telecommunication, multitasking operating systems and information appliances do arrive, what will they look like?
+
+In short, the avant-garde vision became materialized in a computer.
+All the strategies developed to awaken audiences from the dream-existence of bourgeois society (constructivist design, new typography, avant-garde cinematography and film editing, photo-montage, etc.) now define the basic routine of a post-industrial society: interaction with a computer.
+For example, the avant-garde strategy of collage re-emerged as a "cut and paste" command, the most basic operation one can perform on any computer data.
+In another example, dynamic windows, pull-down menus, and HTML tables all allow a computer user to work simultaneously with practically unrestricted amounts of information despite the limited surface of the computer screen.
+This strategy can be traced to Lissitzky's use of movable frames in his 1926 exhibition design for the International Art Exhibition in Dresden.
+
+... what was a radical aesthetic vision in the 1920s became a standard computer technology by the 1990s.
+
+Given the Transformation of the avant-garde techniques into software, described above, shall we conclude that the only claim of new media to an avant-garde status lies in its connection to the old, modernist avant-garde?
+The answer is no.
+New media does introduce an equally revolutionary set of communication techniques.
+It indeed represents the new avant-garde, and its innovations are at least as radical as the formal innovations of the 1920s.
+But if we are to look for these innovations in the realm of forms, this traditional area of cultural evolution, we will not find them there.
+For the new avant-garde is radically different from the old:
+1. The ›old media avant-garde‹ of the 1920s came up with new forms, new ways to represent reality and new ways to see the world.
+The ›new media avant-garde‹ is about new ways of accessing and manipulating information.
+Its techniques are hypermedia, databases, search engines, data mining, image processing, visualization, simulation.
+2. The new avant-garde is no longer concerned with seeing or representing the world in new ways but rather with accessing and using in new ways previously accumulated media. in this respect new media is post-media or ›meta-media‹, as it uses old media as its primary material.
